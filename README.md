@@ -17,26 +17,15 @@ Overall, the "ChatGPT Python Applications" repository is a valuable resource for
 <br>
 
 
-<br>
-
-<p align="center">
-Author : 
-  <a href="https://github.com/xiaowuc2">
-    @xiaowuc2
-  </a>
-
-</p>
-
-
+<!--
 I am a Machine Learning Researcher, currently working in IBM with expertise in solving real-world problems through coding. Taught 20,000+ students & working professionals to crack coding interviews and land their dream job TCS, Walmart, Accenture, Cognizant. My research has been recognized through publications in esteemed journals such as Springer[^1] and O'Reilly[^2]. 
 
 - [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python) : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
 - [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning.
 - [Let's Have an intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
 - `Follow` me in github for new project : python, machine learning and DSA (coding interview)
+-->
 
-
-<br>
 
 ### Setup 
 
@@ -70,7 +59,7 @@ Which also enables you to join a community of like-minded Python enthusiasts and
 - 💠 [voice-assistant](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/voice-assistant) : Voice assistant based on ChatGPT and WhisperAPI (Audio input & output) 
 - 🐻 [web-scraping-summarizer](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/web-scraping-summarizer) : This tool scraping a given website and summarizes the main context.
 - ⌚ [your-prespective](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : You can train ChatGPT to perceive things the way you do, and it will imitate you!
-- 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully.
+<!-- - 📖 [bhagavad-gita-gpt](https://raw.githubusercontent.com/xiaowuc2/ChatGPT-Python-Applications/main/resource/git4.png) : A religious book which contains all the answers to find our purpose and to live it fully.-->
 - 🏜 [vector-databse](https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/vector-database/Vector_Databse.ipynb) : This is how you can send big text files to chatgpt and avoid the token limits
 
 <br>
